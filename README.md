@@ -2,7 +2,7 @@
 
 # Sobre:
 
-Clone de uma das páginas do discord usando Typescript.
+Clone de uma das páginas da Twitch usando Typescript.
 
 
 ## Screen:
